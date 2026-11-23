@@ -1,16 +1,23 @@
-## Hi there 👋
+Estudiante avanzado de **Ingeniería en Sistemas de Información** en la UTN Facultad Regional Rosario.
 
-<!--
-**MauricioFiorini/MauricioFiorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Rosario, Santa Fe, Argentina
+🔎 Buscando mi primera experiencia laboral en IT
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y conocimientos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Análisis y QA:** análisis funcional, relevamiento de requerimientos, UML, testing de software
+- **Desarrollo:** C#, .NET, Blazor, JavaScript, TypeScript, React, HTML, CSS
+- **Datos:** SQL, Excel
+- **Infraestructura y soporte:** hardware, reparación de equipos, Windows, Linux, redes
+- **Metodologías:** Scrum, metodologías ágiles
+
+## 📂 Proyectos destacados
+
+- **VERIFARM** (proyecto final, en curso): sistema de análisis de interacciones medicamentosas con arquitectura RAG sobre el LLM Gemini de Google.
+- **Casino virtual:** aplicación web de juegos de casino (simulación) con React y TypeScript.
+- **Tienda virtual de hardware:** e-commerce con aplicación web y de escritorio en C#, .NET 8, Blazor y Windows Forms.
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/mauricio-fiorini)
+- mauriciofiorini911@gmail.com
